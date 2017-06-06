@@ -63,8 +63,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#556658</string>
-                <key>fontStyle</key>
-                <string>italic</string>
             </dict>
         </dict>
         <dict>
@@ -76,8 +74,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#FF8140</string>
-                <key>fontStyle</key>
-                <string>italic</string>
             </dict>
         </dict>
         <dict>
@@ -89,8 +85,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#86e7c8</string>
-                <key>fontStyle</key>
-                <string>italic</string>
             </dict>
         </dict>
         <dict>
@@ -158,24 +152,11 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>Operator, Misc, Keyword</string>
-            <key>scope</key>
-            <string>storage.type.function, storage</string>
-            <key>settings</key>
-            <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
             <string>String, Symbols, Markup Heading</string>
             <key>scope</key>
             <string>string, constant.other.symbol markup.heading</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
                 <key>foreground</key>
                 <string>#F4BD86</string>
             </dict>
@@ -200,8 +181,6 @@
             <string>meta.diff, meta.diff.header</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
                 <key>foreground</key>
                 <string>#998f84</string>
             </dict>

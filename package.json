@@ -1,9 +1,9 @@
 {
-  "name": "theme-badwolf-paradox",
-  "displayName": "Badwolf Paradox Theme",
-  "description": "Inspired by the Badwolf theme, ported to vscode with some modifications.",
-  "version": "1.1.1",
-  "publisher": "thracian",
+  "name": "theme-badwolf-paradox-reduced",
+  "displayName": "Badwolf Paradox Reduced Theme",
+  "description": "A fork of Badwolf Paradox.",
+  "version": "1.0",
+  "publisher": "nicksergeant",
   "engines": {
     "vscode": "^1.4.0"
   },
@@ -14,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Badwolf Paradox",
+        "label": "Badwolf Paradox Reduced",
         "uiTheme": "vs-dark",
         "path": "./themes/Badwolf.tmTheme"
       }

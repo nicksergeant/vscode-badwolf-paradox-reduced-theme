@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./Badwolf.tmTheme",
+	"colors": {
+		"editor.background": "#232323",
+		"editorCursor.foreground": "#009cff",
+		"editor.foreground": "#f8f6f2",
+		"editorWhitespace.foreground": "#f00",
+		"editor.lineHighlightBackground": "#242321",
+		"editor.selectionBackground": "#5C1DA0"
+	},
+	"name": "Badwolf Paradox Reduced"
+}

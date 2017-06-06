@@ -2,7 +2,7 @@
     "name": "theme-badwolf-paradox-reduced",
     "displayName": "Badwolf Paradox Reduced Theme",
     "description": "A fork of Badwolf Paradox that removes italics, and reduces the use of orange in standard entities.",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "publisher": "nicksergeant",
     "engines": {
         "vscode": "^1.12.0"

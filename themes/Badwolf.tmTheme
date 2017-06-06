@@ -48,8 +48,6 @@
             <dict>
                 <key>background</key>
                 <string>#86e7c8</string>
-                <key>fontStyle</key>
-                <string>bold</string>
                 <key>foreground</key>
                 <string>#8cffba</string>
             </dict>
@@ -73,7 +71,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#FF8140</string>
+                <string>#F8F6F2</string>
             </dict>
         </dict>
         <dict>
@@ -118,8 +116,6 @@
             <string>constant.numeric, constant.language, support.constant, constant.character, constant.other</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>bold</string>
                 <key>foreground</key>
                 <string>#b88853</string>
             </dict>
@@ -131,8 +127,6 @@
             <string>entity.name.class, entity.name.type.class, support.type, support.class, entity.other.inherited-class</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>bold</string>
                 <key>foreground</key>
                 <string>#ffa724</string>
             </dict>
@@ -146,8 +140,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#ff2c4b</string>
-                <key>fontStyle</key>
-                <string>bold</string>
             </dict>
         </dict>
         <dict>
@@ -168,8 +160,6 @@
             <string>entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>bold</string>
                 <key>foreground</key>
                 <string>#ffa724</string>
             </dict>
